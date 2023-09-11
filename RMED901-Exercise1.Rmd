@@ -1,10 +1,14 @@
+<<<<<<< HEAD
 ---
+=======
+>>>>>>> 0eb967434727596ab2ebcbcdb28a122420f7abb7
 title: "RMED901-Exercise 1"
 author: "Marianne Bråtveit"
 date: "2023-09-11"
 output: html_document
 ---
 
+<<<<<<< HEAD
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
@@ -32,3 +36,21 @@ Note that the `echo = FALSE` parameter was added to the code chunk to prevent pr
 1+3
 
 ghfgf
+=======
+hei og hå
+
+hei! kan du lese meg?
+
+ja, det kan jeg 
+
+ja, det kan jeg (jonathan)
+
+WUHU!!!!!!
+
+JIPPI! only waiting for Ryan now
+
+
+RYAN WHERE ARE YOU!!!???
+
+HURRY UP RYAN!!
+>>>>>>> 0eb967434727596ab2ebcbcdb28a122420f7abb7
