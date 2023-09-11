@@ -4,5 +4,4 @@ date: "2023-09-11"
 output: html_document
 ---
 
-#Common file for group project
-
+hei og hå
