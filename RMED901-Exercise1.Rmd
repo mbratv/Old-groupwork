@@ -5,3 +5,7 @@ output: html_document
 ---
 
 hei og hå
+
+hei! kan du lese meg?
+
+ja, det kan jeg 
